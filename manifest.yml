@@ -1,7 +1,7 @@
 declared-services:
   ghost-image-db:
     label: cloudantNoSQLDB
-    plan: Shared
+    plan: Lite
   ghost-mysql-db:
     label: mysql
     plan: '100'
