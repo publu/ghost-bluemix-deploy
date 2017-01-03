@@ -3,7 +3,7 @@ So, you want to start your own blog? In this post I will show you how to deploy 
 This guide is specifically for **Bluemix** but you are welcome to look at the source code.
 
 To make your deployment process as easy as possible, I have created a github repo that contains all the code needed to get you started, simply click **Deploy to Bluemix** button below.
-> [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/bosung90/ghost-bluemix-deploy)
+> [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/publu/ghost-bluemix-deploy)
 
 You will then need to login to your **Bluemix** account. If you do not have one you can create one with free 30 days trial. Once your trial is over, you are required to enter your credit card information, but you will not be charged as long as you remain within free-tier limit. (Free tier is enough to run 2 ghost blogs 24 hours a day, or 4 ghost blogs 12 hours a day)
 
